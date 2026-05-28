@@ -94,7 +94,7 @@
 <h2>Activity 1: Basic Output</h2>
 <div class="output">
 <?php
-echo "Name: Joey Ann Ramos <br>";
+echo "Name: Justine Jade u. Buduan <br>";
 print "Course: BSIT";
 ?>
 </div>
@@ -108,16 +108,16 @@ print "Course: BSIT";
 <div class="output">
 <?php
 echo "Welcome to my PHP mini project!<br>";
-echo "I'm Owi and this is my first PHP project.<br>";
-echo "I love learning and expanding my wisdom.";
+echo "I'm Shad and this is my PHP project.<br>";
+echo "I love playing games";
 ?>
 </div>
 
 <h2>Activity 3: Declaring Variables</h2>
 <div class="output">
 <?php
-$name = "Joey Ann Ramos";
-$age = 18;
+$name = "Justine Jade Buduan";
+$age = 21;
 $course = "BSIT";
 
 echo "Name: " . $name . "<br>";
